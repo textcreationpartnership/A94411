@@ -1,0 +1,538 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Excellency the L. Generall Cromwell, and the rest of the Councell of the Army of the Comonwealth of England; the humble and faithfull advice of divers affectionate friends to the Parliament, Army and Commonwealth of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94411</idno>
+            <idno type="STC">Wing T1352B</idno>
+            <idno type="STC">ESTC R203795</idno>
+            <idno type="EEBO-CITATION">99895807</idno>
+            <idno type="PROQUEST">99895807</idno>
+            <idno type="VID">153654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Excellency the L. Generall Cromwell, and the rest of the Councell of the Army of the Comonwealth of England; the humble and faithfull advice of divers affectionate friends to the Parliament, Army and Commonwealth of England</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153654:1" rendition="simple:additions"/>
+            <head>TO HIS EXCELLENCY THE L. Generall Cromwell, AND The reſt of the Councell of the Army OF THE
+Commonwealth of ENGLAND;</head>
+            <head>The humble and faithfull advice of divers affectionate Friends to the Parliament, Army and
+Commonwealth of <hi>England.</hi>
+            </head>
+            <p>HEaring of your eſpeciall meetings in Councell in order to the ſetling of the Nation in
+Peace and Freedome, as perſons alwayes ingaged with you in affection and indea<g ref="char:EOLhyphen"/>vours to the
+ſame juſt ends, and a like concerned in the iſſue and ſucceſſe thereof; and knowing
+by ſad experience how prone the wiſeſt have been to miſtakings in affairs of this nature,
+we have deemed our ſelves bound in conſcience to contribute what we conceive requiſite, or
+may be of uſe for the ſteering of your courſe aright, and for the avoyding of thoſe rocks
+upon which many have fallen for want of due and timely conſideration: which cannot be avoided but
+by a cleare knowledge of the Fun<g ref="char:EOLhyphen"/>damentall Lawes and Liberties of <hi>England,</hi> and by a firm
+reſolution to reſtore every of them without partiality unto their primitive power and efficacy
+throughout the Land; notwithſtanding any corrupt intereſt, built upon their ruines or
+abuſes.</p>
+            <p>So that waving all things of innovation (let pretences be ne<g ref="char:EOLhyphen"/>ver
+<pb n="2" facs="tcp:153654:2"/> ſo ſpecious) the firſt thing neceſſary to the work you have
+un<g ref="char:EOLhyphen"/>dertaken, is to ſatisfie your underſtandings, what are thoſe Funda<g ref="char:EOLhyphen"/>mentall Lawes and
+Liberties, and in the next place by all lawfull means to endeavour their reſtauration. For, as
+you once well argu<g ref="char:EOLhyphen"/>ed, you are not a mercenary Army, hired to ſerve any arbitrary power of State
+(ſuch was the late Kings Army, fighting againſt the Fundamentall Lawes, to erect his will or
+corrupt Lawes by former Kings procured ſubſervient to will and power) but called forth and
+conjured by the ſeverall Declarations of Parliament to the defence of your own and the Peoples
+juſt Rights and Liberties, which our Anceſtours of famous memory have endeavoured to
+pre<g ref="char:EOLhyphen"/>ſerve with the price of their bloud, and you by that, and the late bloud of your deare
+friends and fellow-ſouldiers (with the hazard of your own) do now lay claime to; theſe are your
+own reaſonings when firſt you diſputed the Authority of Parliament, they having firſt
+declined the Fundamentall Lawes, which was the onely juſt ground of declining them.</p>
+            <p>And as you rightly underſtood, that being no mercenary Army, but called forth to the defence
+of your own and the Peoples juſt Rights and Liberties, you were not bound to obey commands,
+though of a Parliament, contrary to the Fundamentall Lawes, ſo much more now are you to
+underſtand, That of any men in the world it would worſt become you, to be either adviſers or
+procu<g ref="char:EOLhyphen"/>rers of other things then thoſe very true ancient fundamentall Rights and Liberties.</p>
+            <p>And you ſee likewiſe, that not withſtanding the many profeſſi<g ref="char:EOLhyphen"/>ons and Proteſtations
+of this Army, to maintain the Fundamentall Lawes and Liberties of this Nation, it yet remains under
+a greater degree of bondage, and fuller of juſt complaints then ever, becauſe you have
+ſlackened your zeale, and there hath not been that dili<g ref="char:EOLhyphen"/>gent perſeverance in all lawfull
+indeavours untill their plenary re<g ref="char:EOLhyphen"/>ſtauration and firm eſtabliſhment: Your ſtudy ought not
+to be like Conquerors, to make things new, or innovate upon the Funda<g ref="char:EOLhyphen"/>mentall Lawes (that
+never-failing means of trouble and confuſion) but to cleare them from thoſe many incroachments,
+violations and abuſes both upon the Lawes themſelves, and the execution of them, which have
+almoſt rendred them of no benefit, and full of vexati<g ref="char:EOLhyphen"/>on to the people of this Nation.</p>
+            <p>You may pleaſe to obſerve, it is not the being of a Parliament
+<pb n="3" facs="tcp:153654:2"/> that makes the Nation happy, but their maintaining of the fun<g ref="char:EOLhyphen"/>damentall Rights
+and Liberties, nor that in words onely and De<g ref="char:EOLhyphen"/>clarations, but in the reall and effectual
+eſtabliſhment of them; and when they either neglect thoſe, or ſet up other things contrary,
+or oppoſe the eſtabliſhing of them, they prove themſelves enemies, and reduce this Nation
+into a condition of bondage.</p>
+            <p>Be pleaſed to review your Remonſtrances and Declarations which in all parts of them have
+held forth the clearing, ſetling and ſecuring of the Rights, Liberties, and peace of the
+Nati<g ref="char:EOLhyphen"/>on, the only juſtifiable end of all your publique motions and en<g ref="char:EOLhyphen"/>deavours, appealing to the
+whole Nation, to the world, and to Almighty God, for the juſtneſſe, reaſonableneſſe,
+and common concernment of your deſires and intentions therein, yea ſo wiſely carefull were ye
+over the common Rights and Liberties of the peo<g ref="char:EOLhyphen"/>ple, and of their ſafety, that you propoſed
+that in things clearly deſtructive to thoſe Rights, there might be for the future a liberty for
+diſſenting Members in the Parliament to enter their diſſent, and thereby to acquit
+themſelves from the guilt or blame of what evills might enſue, that ſo the people might
+regularly come to know who they are that performe their truſt faithfully, and who not, an
+argument amongſt others then urged by the Army, importing the greateſt zeal and ſincerity, to
+the reſtoring of the Fundamentall Lawes, that could poſſibly be expreſſed.</p>
+            <p>Nor is there (as we verily believe) any juſt objection, that ſhould ſtagger you in
+perſeverance accordingly, although we cannot de<g ref="char:EOLhyphen"/>ny, but that all the old and new Sophiſms and
+deluſive arguments deviſed by corrupt intereſts, in defence of themſelves againſt the
+Fundamentall Lawes and Liberties of the people, have been ſo di<g ref="char:EOLhyphen"/>ligently blown abroad, that we
+find they have captivated many good mens underſtandings, and are ready and uppermoſt almoſt
+in all diſcourſes, urging that if you now endeavour the reſtauration of the ancient
+Fundamentall Lawes and Liberties of <hi>england,</hi> you ſeek to re-ediſie the things you have
+thrown down, as Kingly go<g ref="char:EOLhyphen"/>vernment, which the Parliament, not without ſufficient grounds, voted
+to be uſeleſſe, burthen ſome, and dangerous; for what, ſay they, hath been more ancient
+in <hi>England,</hi> unto which even by the very Lawes were annexed large revenues, and
+extraordinary truſts, as the <hi>Militia,</hi> and the like? what more ancient authority then the
+Houſe of Lords, which by the very Lawes of <hi>england</hi>
+               <pb n="4" facs="tcp:153654:3"/> had Juriſdiction in appeals after Judgement, and both Kings and Peers ever
+eſteemed an eſſential part of Parliaments; the Bi<g ref="char:EOLhyphen"/>ſhops likewiſe of long continuance, and
+very many Lawes extant in favour of them.</p>
+            <p>But as truth is more antient then error, and righteouſ<g ref="char:EOLhyphen"/>neſſe was before ſinne, though
+error and ſinne have much to ſay for their antiquarty, ſo is it anſwered in theſe and the
+like caſes; though Kings, and Lords, and Biſhops have been of long continu<g ref="char:EOLhyphen"/>ance, and have
+procured many Laws to be made in ſeverall times, by Parliaments in favour of them, yet upon due
+examination it will appear, that they are not of Fundamentall Inſtitution, no more then many
+other corrupt intereſts, yet extant which time after time have one made way for another, untill
+at length they got the ſway of all things, ſate themſelves upmoſt in all places, oft times
+filled the ſeats in Parliament, and then made Lawes in favour of themſelves, and each others
+intereſt, and in ſubverſion of the Fun<g ref="char:EOLhyphen"/>damentall Lawes, endeavouring all they could utterly
+to root them up, and to blot the knowledge of them out of all remem<g ref="char:EOLhyphen"/>brance.</p>
+            <p>And therefore to find out what are truly Fundamentall Inſtitu<g ref="char:EOLhyphen"/>tions, you may pleaſe to look
+beyond Kings, and as you paſſe them, you will perceive that their originall was either by force
+from without, or from confederacy within the Land, that of their confederates they made Lords and
+Maſters over the people, crea<g ref="char:EOLhyphen"/>ted offices, and made their creatures officers for life, whereas
+the true mark of a Fundamentall Inſtitution is only one years continu<g ref="char:EOLhyphen"/>ance in an office, by which
+mark it is evident, that neither Kings nor Houſe of Lords are of Fundamentall Inſtitution, all
+true Funda<g ref="char:EOLhyphen"/>mentall Inſtitutions ordaining election to every office, which is a<g ref="char:EOLhyphen"/>nother mark, and
+that by the Inhabitants of the place where the office is to be exerciſed; and another ſpeciall
+mark is, that the main ſcope and intent of the office and buſineſſe thereof, is of e<g ref="char:EOLhyphen"/>quall
+concernment to the generall good of all the people, and not pointed to make men great, wealthy and
+powerfull, all which undoubted marks exclude not only Kings, and Lords, and Biſhops, but many
+other intereſts of men in this long enſlaved and deluded Nation.</p>
+            <p>So that in removing theſe uſeleſſe burthenſome and dangerous intereſts of Kings,
+Lords, and Biſhops, no violence at all hath
+<pb n="5" facs="tcp:153654:3"/> been done to the Fundamentall Lawes and Liberties of <hi>England,</hi> but they
+are ſo farre cleared and ſecured from innovation, and many oppreſſions which attended
+them.</p>
+            <p>Nor is there ground for any to ſuppoſe, that in reſtoring the true antient fundamentall
+Rights of <hi>England,</hi> there will be a neceſſity of maintaining any the Courts in
+<hi>Weſtminſter,</hi> or their tedious, burthen<g ref="char:EOLhyphen"/>ſome or deſtructive way of proceeding in
+trial of Cauſes, both Chan<g ref="char:EOLhyphen"/>cery, and the reſt being in all things (except the uſe of Juries)
+all of them of Regall inſtitution except the Common Pleas, which is ſo alſo, as to its being
+ſeated in <hi>Westminſter:</hi> Theſe have ſometimes been ſtrengthened by Laws made in
+Parliaments, which were ever to give place to Fundamentals, being indeed null and void, wherein any
+particular they innovate upon, or are contrary unto them: All cauſes by the fundamentall Laws
+being to be decided and fi<g ref="char:EOLhyphen"/>nally ended, paſt all appeal, in the Hundreds, or County Courts, where
+parties reſide, or where the complaint is made by Juries, without more charge or time then is
+neceſſary, ſo that untill the Norman Conqueſt, the Nation never knew or felt the charge,
+trouble, or intanglements of Judges, Lawyers, Attorneys, Solici<g ref="char:EOLhyphen"/>tors, Filors, and the reſt of
+that ſort of men, which get great e<g ref="char:EOLhyphen"/>ſtates by the too frequent ruines of induſtrious people,
+which is a<g ref="char:EOLhyphen"/>nother mark to know that all ſuch are not of fundamentall inſti<g ref="char:EOLhyphen"/>tution, but Regall,
+and erected for the increaſe and defence of that intereſt.</p>
+            <p>As for thoſe defects which are many times obſerved in Juries, and ſome inconveniences
+which enſuc in ſome caſes under other fundamentall Conſtitutions; it is to be noted, that
+there is not perfection to be expected in any Government in this world, it be<g ref="char:EOLhyphen"/>ing impoſſible
+for the wiſeſt men that ever were to compoſe ſuch Conſtitutions, as ſhould in every
+caſe warrant a juſt event. Yet ſo carefull have our Forefathers been, that the Laws of
+<hi>England</hi> are as preventive of evill, and as effective for good, as any Laws in the
+world.</p>
+            <p>And for Juries, whatever juſt complaint lies againſt them, it doth not relate to the
+Conſtitution it ſelfe, (which Kings have of<g ref="char:EOLhyphen"/>ten attempted to deſtroy, as the main
+fortreſſe of the peoples li<g ref="char:EOLhyphen"/>berty) but againſt ſuch abuſes, in the packing and framing of
+Ju<g ref="char:EOLhyphen"/>ries, in their by aſſing or over-awing, by the ſervile and partiall Of<g ref="char:EOLhyphen"/>ficers about the
+Courts, by the Kings Sheriff, or under-Sheriff, and
+<pb n="6" facs="tcp:153654:4"/> other, by wayes, that others have found out; all which abuſes are matters of
+juſt complaint, and require rectification, and ought not to be made uſe of as a ground of
+Innovation, or an argument a<g ref="char:EOLhyphen"/>gainſt your fundamentall Conſtitution.</p>
+            <p>Others there are, who finding the great importance of Juries to preſerve the people's
+Liberties, and that through the ſenſe that the people have thereof, it will be but a vain thing
+to attempt the totall taking them away, have invented a ſtrategem that will ren<g ref="char:EOLhyphen"/>der them
+inſtead of being a fountain of equall Juſtice to the peo<g ref="char:EOLhyphen"/>ple, the means only of advancing the
+rich, and an awe upon the middle and meaner fort of men, which they would do upon the common
+pretence of Prerogative, that onely men of eſtate and quality ought to be entruſted with the
+determination and deciſion of cauſes, and therefore have contrived that ſuch only as are
+worth one hundred mark <hi>per annum,</hi> ſhould be capable of being choſen Jury men, which if
+obtained, we cannot from thence but make theſe concluſions.</p>
+            <p n="1">1. That the Fundamentall Conſtitution is thereby violated, which gives equall reſpect
+to all men, paying Scot and Lot in the places they inhabit.</p>
+            <p n="2">2. By the ſame liberty they alter the Conſtitution in this parti<g ref="char:EOLhyphen"/>cular at this time,
+they may at another time totally take it a<g ref="char:EOLhyphen"/>way.</p>
+            <p n="3">3. That it is a policy agreeable to that of Kings, in reducing the power of Judgement into
+the hands of a few, and the rich, who may with much more caſe be corrupted, then the generality:
+It be<g ref="char:EOLhyphen"/>ing alſo a bringing of this Nation to the condition of the French, and making it
+conſiſt only of Gentleman and Peſants.</p>
+            <p>You may be pleas'd in the next place to conſider the particular of Preſſing, or forcing
+men to ſerve in the warres againſt their conſents, then which nothing is more contrary to
+fundamentall liberty; the King did alwayes make uſe of it, and ſuch abroad, whoſe government
+ha's not that goodneſſe and freedome in it, as to invite men voluntarily to its defence; a good
+government can<g ref="char:EOLhyphen"/>not need it, ſince in that it would be the intereſt of every man to hazard his
+life and fortunes for its conſervation, and therefore we deſire that this antient liberty may
+be tenderly preſerved.</p>
+            <p>For Tythes, they may (we conceive) be taken away, with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:153654:4"/> violence to any fundamentall Law; the inſtitution there; of being Popiſh at
+firſt, and partly Regall, afterwards than<g ref="char:EOLhyphen"/>ged ſolely into the Regal Intereſt, to maintain a
+numerous ſort of ble Sophiſters, under pretence of being Miniſters of Chriſt (which they
+were not) having no qualifications agreeable unto thoſe which were ſo indeed, to preach up the
+Regall Intereſt with their own: Fundamentall inſtitution impoſeth no charge upon the peo<g ref="char:EOLhyphen"/>ple,
+but for maintenance of the impotent and poor, or for ſuch as are reſtrained untill time of
+triall for want of Sureties: All which the Neigabourhood is to levy, or for publique defence
+againſt ene<g ref="char:EOLhyphen"/>mies, which is referred by Fundamentall Conſtitution unto annual choſen
+Truſtees in the Grand Councell of the people, called from the Norman Parliament, upon whom the
+continued labours and policies of the Conquerors ſucceſſors have had great influence, by
+whoſe endeavours this burthen of Tythes came to have the colour of Law ſet upon it, though in
+this, as in all things els, Parliament Law was ever to give way to Fundamentall, being null and
+void in it ſelfe, where it innovates upon the antient Rights of the peo<g ref="char:EOLhyphen"/>ple, and hath been ſo
+acknowledged, enacted, and declared by moſt Parliaments; of ſo Supreme Authority in this Nation
+have fundamentalls ever beene, whereof Annuall new elected Parlia<g ref="char:EOLhyphen"/>ments is one and a chiefe, being
+inſtituted for preſervation, and not for deſtruction of fundamentalls, for then it might null
+Par<g ref="char:EOLhyphen"/>liaments themſelves, which could never be within the truſt of Par<g ref="char:EOLhyphen"/>liaments.</p>
+            <p>But yet ſo unhappy have Parliaments been in moſt times ſince the Conqueſt, that waving
+their care of the fundamentall Liberties of the Nation, they have ſo multiplied Laws upon Laws to
+their prejudice, that the whole voluminous bulk of the book of Statutes ſerves but as a
+witneſſe of their defection, and of the prevalence of the Regall intereſt and his adherents;
+of which deviation from their rule (the Fundamentall Law) not any one thing is more re<g ref="char:EOLhyphen"/>markably
+pernicious to induſtrious people, then this of tythes, or inforced maintenance for Miniſters,
+or any other ſort of men, ex<g ref="char:EOLhyphen"/>cept ſuch as are afore-mentioned; ſo that tythes being utterly
+aboliſhed, the people are delivered from a moſt heavy and grinding oppreſſion, and therein
+reſtored to Fundamentall Li<g ref="char:EOLhyphen"/>berty.</p>
+            <p>
+               <pb n="8" facs="tcp:153654:5"/> And as for thoſe Laws which have been, touching mens Judge<g ref="char:EOLhyphen"/>ments, opinions and
+practiſe in matters of Religion, with the pro<g ref="char:EOLhyphen"/>ceedings thereupon, and puniſhments annexed,
+there is no ground at all for them, the Fundamentall Law of <hi>England</hi> being as free and
+clear from any ſuch perſecuting ſpirit, as the Word of God is; queſtioning none, nor
+permitting that they ſhould be queſti<g ref="char:EOLhyphen"/>oned, or otherwiſe moleſted, much leſſe
+puniſhed, but for ſuch things only, as whereby ſome other perſon is injured, in perſon,
+goods, or good name, or in wife, children, or ſervant; and therein alſo it provides, that none
+be tortured upon any occaſion whatſo<g ref="char:EOLhyphen"/>ever, and that no leſſe then two lawfull Witneſſes
+are ſufficient to prove every fact: Alſo, that where any accuſed perſon can procure
+Sureties, there be no reſtraint of the body in priſon; what is in common practiſe contrary
+hereunto, hath been innovated contra<g ref="char:EOLhyphen"/>ry to Fundamentall Right, and may lawfully be reformed and
+re<g ref="char:EOLhyphen"/>duced to its originall ſtate again, and thereby alſo the people re<g ref="char:EOLhyphen"/>ſtored to antient right
+therein, and freed from abudance of miſ<g ref="char:EOLhyphen"/>chief and inconvenience.</p>
+            <p>And ſo extremely doth the Fundamentall Conſtitutions of <hi>England</hi> regard true
+frtedome, that it allows of Bail in any caſe, without exception, where it can be obtained, and
+admits no im<g ref="char:EOLhyphen"/>priſonment of the perſons of any for debt, chooſing rather that one man ſhould
+ſuffer in his eſtate, then that the bodies of men and women ſhould be, as it were, buried
+alive in goales and pri<g ref="char:EOLhyphen"/>ſons, as thouſands have been, and ſtill are, to the hearts grief of
+all tender hearted people.</p>
+            <p>But then the fundamental Law provides, that where there is any eſtate, there ſatisfaction is
+to be made, as far as it will reach, leaving ſtill ſome neceſſaries for life, otherwiſe
+it were more grievous for poor debtors, then for many ſorts of wilfull malefactors; for how<g ref="char:EOLhyphen"/>ever
+the preſent practiſe is, and long hath been, by the fundamen<g ref="char:EOLhyphen"/>tall Law, the eſtate even of a
+capital offender that ſuffers death for his offence, is not forfeited, but deſcends to his
+family, as other mens, after ſatisfaction made to the parties damnified: Theſe for<g ref="char:EOLhyphen"/>feitures no
+doubt have been the principall cauſe that many an in<g ref="char:EOLhyphen"/>nocent mans life hath been unjuſtly taken
+away, and many a worthy honeſtman come to be burn'd in the hand; and however Parliaments have
+been drawn in to countenance ſuch practiſes, it was the inven<g ref="char:EOLhyphen"/>tice of Kings to turn families
+upſide down at pleaſure, for to them
+<pb n="9" facs="tcp:153654:5"/> their forfeitures went, and they gave them to their creatures and Sickovants,
+ſo that here you ſee is work enough for a well minded Parliament to remove theſe evills, and
+to reſtore our rights in theſe and many other grand particulars, without interchanging or
+in<g ref="char:EOLhyphen"/>novating upon the true Law of <hi>England.</hi>
+            </p>
+            <p>The moſt unreaſonable deicent of inheritances to the el<g ref="char:EOLhyphen"/>deſt ſonne onely, is alſo no
+part of the Fundamentall Law, but quite contrary thereunto, that honeſtly and conſciona<g ref="char:EOLhyphen"/>bly
+provided, that all inheritances ſhould diſcend to all the children alike, chuſing rather that
+ſome ill-deſerving chil<g ref="char:EOLhyphen"/>dren ſhould have where they deſerve not, then that it ſhould be
+at the will of parents, or in the power of the Law, to expoſe many to ſuch inconveniences, and
+deſtructive courſes, which younger brothers for the moſt part hath been caſt upon: Divers
+other bran<g ref="char:EOLhyphen"/>ches there are of the Fundamentall Law, as is that concerning Ju<g ref="char:EOLhyphen"/>ries, the Liberty of
+Exception againſt thirty five, without ſhewing cauſe, and of as many more as cauſe can be
+juſtly alledged againſt, untill the party doth evidently ſee an indifferency in his Tryers,
+As alſo to admit no examination of any againſt themſelves, nor puniſh<g ref="char:EOLhyphen"/>ment for refuſing
+to anſwer to queſtions, Nor conviction without two lawful Witneſſes at the leaſt; and
+that it is the duty of the Offi<g ref="char:EOLhyphen"/>cer of the Court to declare to every perſon theſe his Rights,
+and to bring them to remembrance, if neglected to be demanded; all this ſhewes that the
+Fundamentall Law of <hi>England</hi> is a Law of Wiſ<g ref="char:EOLhyphen"/>dome, Juſtice and much mercy, ſuch as
+God will bleſſe, choſing in all caſes rather that ſome guilty perſons ſhould
+ſometimes eſcape, then that one innocent perſon ſhould cauſleſly be condemned.</p>
+            <p>And whereas it hath beene ſuppoſed, that the puniſhment of theft by death is fundamentall,
+it is a meer miſtake, it, as moſt o<g ref="char:EOLhyphen"/>ther like things, being an innovation, and no way tending
+to the leſſening of offenders, but rather to their encreaſe, and indeed ne<g ref="char:EOLhyphen"/>ceſſinating,
+or ſtrongly tempting every one that robs, to murther alſo: For as the practiſe long time hath
+been, one witneſſe even of the party himſelf that is robbed ſufficeth for proof, and
+caſts the thief for his life, what way then is more ſafe for the thief, then to murther whom he
+robs, to prevent his teſtimony againſt his life, ſeeing he dies, if proved a thief, and can
+do no more if, proved a murtherer? Beſides, when the Fundamentall Conſtitution was in force, it
+puniſhed offenders according to the nature of their theft,
+<pb n="10" facs="tcp:153654:6"/> ſome by pecuniary mulcts, others by corporall puniſhments, with laborious
+workings and open ſhame, at which time it is teſtified, that a man with much money, or moneys
+worth, might have travel<g ref="char:EOLhyphen"/>led in ſafety all over <hi>England</hi> with but a white wand in his
+hand; be<g ref="char:EOLhyphen"/>ſides, the Law of death for theft is many times the means why rob<g ref="char:EOLhyphen"/>bers eſcape, for
+that many good and tender-hearted people, either upon the conſideration above-mentioned, decline
+proſecuti<g ref="char:EOLhyphen"/>on, becauſe if they ſhould proſecute, they muſt either ſweare falſly, and
+undervalue what they loſt, or take away life, where in conſcience they judge they ought not;
+all which would not be, were the puniſhment proportioned to the offence, as in the Fundamentall
+Law it is.</p>
+            <p>As much likewiſe may be ſaid concerning the ſervile tenures of Copyholds, how long
+ſoever they have been, they are the ſlaviſh re<g ref="char:EOLhyphen"/>mains of conqueſt, inconſiſtent with
+true freedome, or the Funda<g ref="char:EOLhyphen"/>mentall Law of <hi>England,</hi> and may, and as the reſt forenamed,
+ought to be reduced to the true ſtate of antient right, and the people thereby freed from
+abundance of torment, and veration of Spirit.</p>
+            <p>All Monopolies at home, and all reſtraint of trade abroad to diſtinct companies of men, are
+all oppoſite to the antient rights of the people, and may juſtly be reduced to a univerſall
+freedome to e<g ref="char:EOLhyphen"/>very Engliſhman, which will make trade in time to flouriſh, and wealth and plenty
+of all neceſſaries to abound, eſpecially if the way of raiſing money by cuſtome and
+Excize were laid aſide, being ut<g ref="char:EOLhyphen"/>terly deſtructive to trade, and rendring the lives of
+tradeſmen te<g ref="char:EOLhyphen"/>dious and irkſome to them, and hath no conſiſtence with Funda<g ref="char:EOLhyphen"/>mentall right;
+for according to that rule, no impoſition ought to be laid upon trade, but what moneys are at any
+time found needfull by Parliament ought to be levied by way of Subſidy, or an equall proportion
+upon all mens eſtates, reall and perſonall, in which courſe the whole, within two pence or
+three pence in the pound, is brought into the publike treaſury, whereas in the other way, vaſt
+ſums go to the maintenance of Officers, ſo as you perceive in this and all other particulars
+hitherto recited, the moſt antient right is not on<g ref="char:EOLhyphen"/>ly due, but moſt for the caſe and good of
+the people, you may per<g ref="char:EOLhyphen"/>ceive by what hath been expreſſed what are our antient rights, and
+what, how many, and how great have been our almoſt as antient wrongs and oppreſſions.</p>
+            <p>
+               <pb n="11" facs="tcp:153654:6"/> Some of our antient rights remain alive to this day, as Parlia<g ref="char:EOLhyphen"/>ments and
+Juries; the firſt of which ought annually to be choſen, which annnall choice hath for many
+years been intermitted, and that inherent right withheld, which ſhould have ſome ſpecial
+thing for its excuſe, and happy were the people, and doubtleſſe happy would it be for this
+preſent Parliament alſo, that it may truly be ſaid they held the Parliamentary power ſo
+long, that they might re<g ref="char:EOLhyphen"/>ſtore the people to their antient native rights, the Fundamentall Laws,
+to their full force and power, for which end it was, as you declared, that you reſerved theſe,
+when you excluded the reſt: and therefore ſurely in this and many more reſpects you are
+obliged to perſevere in putting them in mind thereof, and if you find that they are not able to
+agree in the performance of this, the proper work of Parliaments then to move them in ſome
+ſhort time, to order a new Parliament to be choſen, that they may take place of them, it being
+in no wife ſafe for the Parliament to diſſolve, untill the new immediately ready to ſit
+when they riſe; nor would we for any thing in the world, that Parliaments ſhould be
+accuſtomed to be forced, no<g ref="char:EOLhyphen"/>thing being of more dangerous conſequence to Government it
+ſelf.</p>
+            <p>Which endeavours and deſires we ſhall be ready to ſecond you in, and we truſt you will
+not omit to do it by way of Petition with all poſſible ſpeed, that the deſires of good men
+may be ſatisfied, in ſeeing this Parliament yet honour themſelves, and bleſſe the Nation
+with the proper fruit of their ſo many years labour, hardſhip and miſery, the re-injoyment of
+their birth-right, Or if that cannot be obtained, you and your friends deſiring it, they will not
+defer to give up their truſt into the hands of another Parliament, which when you underſtand,
+we ſhall then deſire you to acquaint the people what their antient rights are, and how and by
+what intereſts of men they have been withheld from them, that ſo they may at length beware, and
+not chuſe ſuch men to make them free, whoſe intereſt, advantage, and way of living, binds
+to keep them in perpe<g ref="char:EOLhyphen"/>tuall bondage: And to inform them likewiſe, that it is not Statute Law, nor
+the opinion of Judges, and book-caſes, nor the Preroga<g ref="char:EOLhyphen"/>tive of Princes, Lords, and great ones,
+nor any thing but their Fun<g ref="char:EOLhyphen"/>damentall Rights that can render them free or happy, and to per<g ref="char:EOLhyphen"/>ſwade
+them no longer to give ear to ſuch charming as hath been to their bondage and miſery: And that
+you will be as ſtrongly provi<g ref="char:EOLhyphen"/>ded againſt all motions of Innovation, as againſt the worſt
+of ene<g ref="char:EOLhyphen"/>mies,
+<pb n="12" facs="tcp:153654:7"/> though they ſhould aſſail you with ſeeming arguments from Scripture,
+the Scripture giving no particular rules for the Govern<g ref="char:EOLhyphen"/>ment of Nations, the Government of the
+Iſraelites being only in<g ref="char:EOLhyphen"/>tended for them, and either binds not, or els it binds in all and eve<g ref="char:EOLhyphen"/>ry
+part; ſo as thoſe who require tythes by that Law, or puniſh ſome offences according to that
+Law, are bound alſo to circumciſe, and to offer Sacrifice, and indeed to fulfill the whole Law,
+none having power to make choice of one part, and refuſe another.</p>
+            <p>If they urge from the Goſpell, that indeed gives moſt bleſſed rules for faith and
+converſation, but as to Government, it is appa<g ref="char:EOLhyphen"/>rant from thoſe words of our Saviour, <hi>(who
+made me a divider of inheritances)</hi> that the Goſpel intends not ſo much earthly, as
+hea<g ref="char:EOLhyphen"/>venly things; but both old and new Covenants agree in this, that all juſt agreements and
+contracts amongſt men, (ſuch are our Fun<g ref="char:EOLhyphen"/>damentall Lawes) ought inviolably to be kept and
+obſerved.</p>
+            <p>The ſenſe of the Law of God is cieare in this, that it is a curſed thing to remove the
+land-marks of forefathers; nor are any more highly approved of by God himſelf then the
+<hi>Rechabites,</hi> for walk<g ref="char:EOLhyphen"/>ing ſtedfaſtly in the laws and conſtitutions of their
+forefathers.</p>
+            <p>Nor can any thing be more deſtructive to Government or hu<g ref="char:EOLhyphen"/>man Society, then for men to admit
+that they are not obliged to obſerve the Fundamentall juſt Inſtitutions of the countrey
+wherein they were born, there being nothing that tendeth ſo readily to the ſhaking of a
+well-bounded ſociety of men into anarchy and confu<g ref="char:EOLhyphen"/>ſion: For, what is it that gives any man
+propriety in what he hath but Fundamentall Law? What is it els that defends propriety, but
+Fundamentall Legall Power? Why have you, and we, and thou<g ref="char:EOLhyphen"/>ſands more ſo cried out upon ſuch
+as pretended a Prerogative above Fundamentall Law, and above Parliaments, but that it was in
+ſub<g ref="char:EOLhyphen"/>verſion thereof? Why did our Forefathers and all their poſterity, down to our ſelves,
+ſo heavily complain againſt the with-holding of Parliaments, and againſt triall of Cauſes
+by any other way but by Juries, but that they are both Fundamentall? Why was it alwayes noted as a
+mark of regall prevalencie in Parliaments when any thing paſſed there contrary to thoſe
+ancient Rules? Why upon all complaints of oppreſſion are the amendments alwayes made by that
+Rule, as that when Parliaments had been deferred, and com<g ref="char:EOLhyphen"/>plaint made, the remedy runs thus:
+<hi>For remedy of grievances and miſchiefs which daily happen, a Parliament ſhall be choſen
+once every
+<pb n="13" facs="tcp:153654:7"/> years according to Law:</hi> where it is evident, the Law was more an cient
+then the Act of Parliament or amendment.</p>
+            <p>Alſo after abuſe and innovation in triall of Cauſes the amend<g ref="char:EOLhyphen"/>ment comes and ſayes,
+<hi>That no man ſhall be attached, fixed, impriſoned, exiled or deprived of life, limb, liberty
+or eſtate, but by Iuries, according to the Law of the Land:</hi> Which ſhewes the Fundamentall
+Law to have been time out of mind before <hi>Magna Charta</hi> or any Statute Law. Why when after
+judgment in the legall Courts, the Chancery and Parliament had taken cognizance of the ſame
+Cauſes by way of appeale, doth the amend<g ref="char:EOLhyphen"/>ment come and ſay, hence forth after judgment in the
+legall Courts the parties ſhall be in quiet and free from being called either into Chancery or
+into Parliament, <hi>according to the Law of the Land,</hi> but in reſpect to the ſupremacy of
+Fundamentalls? Why were Pe<g ref="char:EOLhyphen"/>titioners in former times ſo carefull not to inſert the leaſt
+ſyllable contrary to the Fundamentall Law, but that they knew Parliaments were chiefly ordained
+for their preſervation? And it will not be throughly well in <hi>England,</hi> till Parliaments
+make anſwer to Petiti<g ref="char:EOLhyphen"/>oners according to the Rule of the Fundamentall Law. The late
+Worceſterſhire Petitioners for Tythes may then know what they may juſtly expect from them,
+<hi>viz.</hi> that they are at liberty either to give or pay tythes, or any other proportion of
+their incombs, to ſuch whom they will contract with for their labours in teaching divine things,
+or any other kind of learning, but thoſe that ap prove not of paying, are not to be enforced; and
+thus in all things are the Engliſh free, wherein their neighbour is not vio<g ref="char:EOLhyphen"/>lated</p>
+            <p>Had this rule been obſerved of late years, it had e're this ſtopt the mouths of many
+Petitioners, and be got a better underſtanding amongſt the people, who have been ſhattered
+into ſhwers for want of this principle to unite them, every man ſtirring and contending as for
+life for his own opinion; one will have the Parliament do this, another that; others gathering
+themſelves together in knots, and boaſting how many hands they had to their petition; a
+ſecond ſort of men to theirs, and ſo of the reſt, how many friends they had in the Houſe
+for this thing, how many for that; and thus like the builders of <hi>Babel,</hi> they have been
+devided for want of know<g ref="char:EOLhyphen"/>ledge, and fixtneſſe in and upon the Fundamentalls, which only can
+give reſt to the ſpirits of the Engliſh, the goodneſſe whereof ha<g ref="char:EOLhyphen"/>ving
+<pb n="14" facs="tcp:153654:8"/> been once taſted, would ſoon beget a reconcilement; and doubtleſſe this
+way or none muſt come the true and laſting peace a<g ref="char:EOLhyphen"/>mongſt our ſelves, and by this means
+only can we ever be made con<g ref="char:EOLhyphen"/>ſiderable, either againſt obſtinate corrupt intereſt at home,
+or againſt foraign pretenders and enemies ahroad, who otherwiſe obſerving us to be a floating
+unbalanced people, and conſequently divided and ſubdivided within our ſelves, will never
+ceaſe to diſturb this Nation; whereas were we once again bound and knit together with this
+juſt and pleaſant ligament of fundamenthll Law, divide and raign would not be ſo frequent in
+their vanquiſht mouths, which indeed is the main ground of the hopes.</p>
+            <p>Conſider we beſeech you, how uncertain the rule of prudence and diſcretion is amongſt
+the wiſeſt and beſt of men, how unſtable that people were that ſhould be every year to
+make their Laws, or to ſtabliſh them, have we not found the Proverb verified, ſo many men
+ſo many minds; this thing voted by one ſort of men as moſt juſt and neceſſary, yea mens
+eſtates, and lives, and conſciences caſt upon it, and thoſe the beſt of men, when in
+ſhort time after the ſame voted down as moſt unjuſt and pernicious; infinite inſtances of
+this kind we doubt not will come to your remembrance, and there<g ref="char:EOLhyphen"/>fore not without good cauſe have
+our Predeceſſors given ſuch dear reſpect to their Fundamentall Rights, that unleſſe
+mens under<g ref="char:EOLhyphen"/>ſtandings were even bewitched with the ſallaries of corrupt inte<g ref="char:EOLhyphen"/>reſt, they would
+chooſe rather to loſe their lives, then to part with one of them, eſteeming every man, though
+born in <hi>England,</hi> no more a true Engliſhman, then as he maintained the Fundamen<g ref="char:EOLhyphen"/>tall
+Liberties of his Country.</p>
+            <p>To conclude, none ever yet denied that we had Fundamentall ſtanding Laws, and ſuch as
+againſt which no Statute Law ought to be obeyed; but endeavours you will find have been in all
+ages for powers to eſtabliſh themſelves, and govern by diſcretion, upon a pretence of more
+eaſie and ſpeedy diſpatch of juſtice, as the late King did, when he by power brake up the
+ſhort Parliament; before this, he publikely declared, that he and his Lords would with more
+ſpeed and better juſtice redreſſe the grievances of the people, then the Parliament could
+do.</p>
+            <p>And though this hath been a diſeaſe incident to the ſtrongeſt to give Laws and inforce
+them upon the people, yet as it is manifeſtly againſt the Fundamentall Rights of the people of
+<hi>England,</hi> which
+<pb n="15" facs="tcp:153654:8"/> you have profeſſedly fought to reſtore, and not to deſtroy, having
+conquered their enemies, not their friends, ſo have you by Declara<g ref="char:EOLhyphen"/>tions laid grounds againſt
+ſuch temptations; and as abhorring all ſuch wicked and unjuſt intentions, would not have any
+entertain a<g ref="char:EOLhyphen"/>ny ſuch ſuſpition of you; we have very great hopes, that as you will carefully
+preſerve your hands, your ſtrength, and power from being defiled, by impoſing Innovations, or
+continuing ſuch as have been brought upon us, or yet by being inſtrumentall to ſuch as would,
+ſo we truſt, and earneſtly intreat that you would lay the premiſes to heart, and by
+wiſdome and perſeverance, procure the antient good Laws of <hi>England</hi> to be
+re-eſtabliſhed amongſt us, they being ſo juſt, ſo mercifull, ſo preſervative to all
+peaceable minded people, ſo unburthenſome to the induſtrious, ſo oppoſite to all
+ſelf-intereſt, ſo corrective of any manner of wrong, ſo quick in diſpatching, ſo equall
+in the means, ſo righteous in their judge<g ref="char:EOLhyphen"/>ments, proportioning puniſhments to offenders, ſo
+tender of the innocent, ſo conſonant to right reaſon, and having no diſproporti<g ref="char:EOLhyphen"/>on to all
+true Chriſtian doctrine, that the goodneſſe of them, as well as becauſe they are the tyes,
+the Bonds and Ligaments of the people, and both your and our Rights and chiefe inheritance, we
+truſt will cauſe you, like the true ſons of your worthy and valiant Anceſtor, to be
+enamored of them, and to be now much more of the ſame mind, then when you profeſſed that you
+eſteemed neither life nor livelyhood, nor your necreſt relations, a price but ſufficient to
+the purchaſe of ſo rich a bleſſing, that you, and all the free-borne people of
+<hi>England</hi> might ſit down in quiet, under the glorious ad<g ref="char:EOLhyphen"/>miniſtration of juſtice and
+righteouſneſſe, and in full poſſeſſion of thoſe Fundamentall Rights and Liberties,
+without which we can<g ref="char:EOLhyphen"/>not be ſecure of any comfort of life, or ſo much as life it ſelf, but at
+the pleaſure of ſome men, ruling meerly according to will and power.</p>
+            <p>And may the integrity of your hearts ſo appear in all your actions, as may render you well
+pleaſing in the ſight of God. who hath regiſtred all your Vows (of freeing this Nation from
+all kinds of bondages) in the dayes of your diſtreſſe: Keep therefore your hearts faithfull;
+As <hi>Moſes,</hi> who when he was to lead the Iſrae<g ref="char:EOLhyphen"/>lites out of <hi>Aegypt,</hi> would not
+leave a hoof in bondage: and in ſo doing onely, will you be the rejoycing of this Nation to all
+ge<g ref="char:EOLhyphen"/>nerations.</p>
+            <pb facs="tcp:153654:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
